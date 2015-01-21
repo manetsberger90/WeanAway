@@ -30,9 +30,9 @@ public class MainActivity extends ActionBarActivity {
                     text.setText("Press the Button " + (goal - presses) + " more times to die");
                 }
                  if (presses >= goal) {
-                     text.setText("You Died");
+                     text.setText("You Died!!");
                 }
-
+                //Test
                 if (presses >= 25) {
                     text.setText("Wait a second...you're still alive.. maybe this app is broken");
                 }
