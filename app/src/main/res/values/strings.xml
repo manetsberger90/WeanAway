@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeanAway</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="WeanAway">WeanAway</string>
+    <string name="click_me">Press If you wish to die</string>
+
+</resources>
